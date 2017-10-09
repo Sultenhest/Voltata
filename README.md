@@ -1,4 +1,8 @@
 # Voltata
+
+## Download
+https://wordpress.org/themes/voltata/
+
 ## Description
 Hi. I'm theme called voltata. I’m a simple theme meant for the minimalist blog/website. The very minimalistic looks, opens up lots of opportunities for personal customization either through the customizer or by personal custom CSS.
 
