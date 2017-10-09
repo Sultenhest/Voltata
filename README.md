@@ -4,12 +4,12 @@ Hi. I'm theme called voltata. I’m a simple theme meant for the minimalist blog
 
 ![alt text](https://github.com/Sultenhest/Voltata/blob/master/screenshot.png "Screenshot of theme")
 
-##Installation
+## Installation
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
-##Credits
+## Credits
 * CSS based on http://getbootstrap.com/, http://getbootstrap.com/, © 2011-2016 Twitter, Inc, [MIT](http://opensource.org/licenses/MIT)
 * Based on Underscores http://underscores.me/, © 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 ** This includes navigation.js & skip-link-focus-fix.js
